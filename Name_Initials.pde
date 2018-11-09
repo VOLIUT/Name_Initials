@@ -1,12 +1,12 @@
 size(500,500);
-background(#e3e3e3);
+background(#E3E3E3);
 
-nostroke();
+noStroke();
 fill(37,219,255);
 ellipse(250,250,160,160);
 
 fill(3,244,255);
-elllipse(250,250,160,160);
+ellipse(250,250,160,160);
 
 fill(17,238,247);
 ellipse(40,200,40,40);
