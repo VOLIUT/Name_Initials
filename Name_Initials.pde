@@ -41,4 +41,3 @@ ellipse(240,80,80,80);
  line(250,200,250,260);
  arc(230,300,40,40,radians(0),radians(90));
  
- save("TANIA.Initials.Drawing.png");
